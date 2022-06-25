@@ -1,0 +1,24 @@
+.note{
+    color: blueviolet;
+
+}
+
+p {
+    border-style: dotted;
+}
+
+.full{
+    border-style: groove;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.left{
+    background-color: rgb(255, 80, 109);
+    
+    float: left;
+}
+.right{
+    background-color: rgb(94, 94, 241);
+    
+    float: right;
+}
